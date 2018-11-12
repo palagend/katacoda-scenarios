@@ -4,4 +4,5 @@ This is your first step.
 
 This is an _example_ of creating a scenario and running a **command**
 
+`launch.sh`{{execute}}
 `echo 'Hello World'`{{execute}}
